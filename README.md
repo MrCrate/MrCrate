@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Discord](https://img.shields.io/discourse/users/761835209602629662)]
+- :mailbox:How to reach me: [Telegram: @mrcrate]
 
 ---
 
